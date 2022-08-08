@@ -1,3 +1,7 @@
 The second chapter of my life
 
 who is that
+
+What will happen next\
+
+I edit page2 after I commit it.
