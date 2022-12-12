@@ -2,7 +2,7 @@ This is chapter 1 page 4
 I created this with github.com
 
 basically it will be on the remote repo before the local.
-I need to pull it to my local repo to have the same file
+I need to pull it / update to my local repo to have the same file
 
 
 This stage of my life is full of miracle to me, His arrival is a gift from god
